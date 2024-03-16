@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash singh</h1>
 <h3 align="center">This is a Password Generator Project , created by using HTML, CSS and Javascript.</h3>
-GO, check it out</br>
+</br>
 https://password-generator-akashsingh03.netlify.app/
 
 
