@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash singh</h1>
 <h3 align="center">This is a Password Generator Project , created by using HTML, CSS and Javascript.</h3>
 </br>
-<p>Connect with me: https://www.linkedin.com/in/akash-singh-34447b213/</p>
-https://password-generator-akashsingh03.netlify.app/
+Connect with me:<a href="https://www.linkedin.com/in/akash-singh-34447b213/">LinkedIn</a>
+Live Link :<a href="https://password-generator-akashsingh03.netlify.app/">Click here</a>
 
 
 
