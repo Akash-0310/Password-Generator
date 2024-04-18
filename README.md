@@ -2,6 +2,7 @@
 <h3 align="center">This is a Password Generator Project , created by using HTML, CSS and Javascript.</h3>
 </br>
 Connect with me:<a href="https://www.linkedin.com/in/akash-singh-34447b213/">LinkedIn</a>
+<br>
 Live Link :<a href="https://password-generator-akashsingh03.netlify.app/">Click here</a>
 
 
